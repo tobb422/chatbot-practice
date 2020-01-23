@@ -1,4 +1,10 @@
 .idea/*
 
+# Virtualenv
 .Python
-lib/*
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
